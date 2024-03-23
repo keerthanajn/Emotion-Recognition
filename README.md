@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 Clone this repository to your local machine:
 
 ```
-git clone https://your-repository-url.git
+git clone https://github.com/keerthanajn/Emotion-Recognition.git
 cd your-project-directory
 ```
 
