@@ -1,6 +1,4 @@
-Let's format the README content for your project using Markdown syntax to ensure it's properly displayed in environments like GitHub or GitLab. Here's the structured README content with Markdown formatting:
 
-```markdown
 # Face Recognition and Emotion Detection Application
 
 This Python application utilizes **OpenCV**, **DeepFace**, and several other libraries to perform real-time face recognition and emotion detection using a webcam. It showcases the power of AI in understanding human emotions by analyzing facial expressions in real-time.
@@ -54,16 +52,9 @@ python face_emotion_recognition.py
 ```
 
 Press `q` to quit the application at any time.
+Press `s` to listen to speech at any time.
 
-## Contributing
 
-Contributions to this project are welcome. Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your_feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your_feature`).
-5. Open a pull request.
 
 ## License
 
